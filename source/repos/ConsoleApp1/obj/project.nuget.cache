@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m+60xYGPZMQsBn4nZCZVq1oorHhjI3kRn3soOeZ9zhfJRRV8HvicTUpgvpmOMPSA6i/NA2bEnXQrUvpXKcfH2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Misha\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misha\\.nuget\\packages\\gitforwindows\\2.35.1.2\\gitforwindows.2.35.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
